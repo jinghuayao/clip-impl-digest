@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.bak.ipynb
+.DS_Store
+# Large artifacts: re-download data, re-train best.pt (see README)
+data/
+*.pt
